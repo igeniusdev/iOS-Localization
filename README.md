@@ -6,7 +6,7 @@ First you have to prepare your app by separation all user-facing text that need 
 your code and storyboards.Next thing you have to do is to prepare translated text files and your app is ready to
 support another language.
 
-# Visit iOs Localization Blog
+# Visit ios Localization Blog
 
 http://igeniusdev.com/blog/localizing-an-ios-app
 
