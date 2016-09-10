@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  InternationalizationDemo
+
+  Created by ShriHari on 12/7/15.
+  Copyright (c) 2015 iGeniusDev. All rights reserved.
+*/
+
+"This is sample message." = "Ceci est un message échantillon.";

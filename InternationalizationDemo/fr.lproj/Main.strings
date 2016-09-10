@@ -1,0 +1,10 @@
+
+
+/* Class = "UILabel"; text = "For testing application in other language, please set that language from settings in your devide"; ObjectID = "6Ty-BT-bLa"; */
+"6Ty-BT-bLa.text" = "Pour tester l'application dans une autre langue, s'il vous plaît mettre cette langue à partir des paramètres dans votre devide";
+
+/* Class = "UILabel"; text = "Hello World"; ObjectID = "zlV-yd-XFV"; */
+"zlV-yd-XFV.text" = "Bonjour le monde";
+
+/* Class = "UIButton"; text = "Show Message"; ObjectID = "f56-Qc-ann"; */
+"f56-Qc-ann.normalTitle" = "Afficher un message";
